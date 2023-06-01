@@ -1,4 +1,4 @@
-# LangChain <> Huggingface
+# LangChain and Huggingface
 
 This project is a simple template with all the necessary packages and a file to start working with LangChain and Huggingface.
 
